@@ -1,0 +1,180 @@
+/*Name: Nathan Strong*/
+/*Last date I edited this file: 8/11/2021*/
+
+/*Contact Information*/
+.phonenumber{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: #513E3E;
+    text-align: center;
+}
+
+.email{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #695D54;
+    text-align: center;
+}
+
+/*Text modifications*/
+.semibold{
+    font-weight:400;
+    font-size: large;
+}
+
+.bold{
+    font-weight: bolder;
+    font-size: larger;
+}
+
+/*Resume Specific Formatting*/
+.resume{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #493829;
+}
+
+.resumesection{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+    text-align:left;
+    font-size: xx-large;
+}
+
+.resumesubsection{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: beige;
+    text-align:initial;
+    font-size: larger;
+}
+
+.resumesubsubsection{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:black;
+    font-size: medium;
+}
+
+/*Formatting for links to external sites*/
+.interestswebsitelink{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size:x-large;
+    color:white;
+}
+
+.tableaulink{
+    color:blue;
+    text-decoration: solid;
+}
+
+/*Gneral Formatting for Photos*/
+.standardphoto{
+    height:150px;
+    width:auto;
+    border-radius:40px
+}
+
+.selfportrait{
+    height:225px;
+    width:auto;
+    border-radius:40px;
+}
+
+.commonphotos{
+    height: 200px;
+    width: auto;
+    border-radius:20px;
+    padding: 10px 10px 10px 10px;
+    position: relative;
+}
+
+/*Various colors for various photo backgrounds*/
+.beachphotos{
+    background-color:skyblue;
+}
+
+.tennisphotos{
+    background-color:rgb(220,253,80);
+}
+
+.campingphotos{
+    background-color: rgb(103,120,110);
+}
+
+.cardgamesandboardgamesphotos {
+    background-color:#d12d36;
+}
+
+.sportingeventsphotos{
+    background-color: #000080;
+}
+
+.travelphotos{
+    background-color: #a4f4bc;
+}
+
+.cookingphotos{
+    background-color: #ebb245;
+}
+
+.runningphotos{
+    background-color: #a56e58;
+}
+
+.swimmingphotos{
+    background-color: #02BAD6;
+}
+
+/*Background Photos*/
+.interestsbodybackgroundphoto{
+    background-image: url(../../images/backgroundphotos/greenbackground.jpg);
+}
+
+.aboutbodybackgroundphoto{
+    background-image: url(../../images/backgroundphotos/bluebackgroundphoto-gradient.jpg);
+    opacity: 0.8;
+}
+
+.contactbodybackgroundphoto{
+    background-image: url(../../images/backgroundphotos/bluebackgroundphoto-mountain-light.jpg);
+}
+
+.indexbodybackgroundphoto{
+    background-image: url(../../images/backgroundphotos/morningbackgroundphoto-gradient.jpg);
+    object-fit: fill;
+}
+
+.footerbackgroundphoto{
+    background-image: url(../../images/backgroundphotos/whitebackground.jfif);
+}
+
+/*Social Media Icons-Links*/
+.socialmedialink{
+    display:inline;
+}
+
+.socialmedialink:hover{
+    font-size: larger;
+    font-size: bold;
+}
+
+/*Interests Page: "Let's Explore!" Formatting*/
+.letsexplore{
+    font-size:30px;
+}
+.letsexplore:hover{
+    font-size:larger;
+}
+
+/*Interests Page: Text for On Page Anchors*/
+.interestpageanchors{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: larger;
+    color: #FFFDD0;
+    display:block;
+    text-align: center;
+}
+.interestpageanchors:hover{
+   font-size: 30px;
+   color:white;
+}
+
+.interests{
+    color: white;
+}
